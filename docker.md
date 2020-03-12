@@ -111,7 +111,7 @@ docker run -d --name "name" 이미지명
 docker exec -it 컨테이너명 /bin/bash
 컨테이너를 bash로 접근한다는 뜻
 
-![](./img/path.png)
+![](./img/path.PNG)
 
 컨테이너 내부에 접속해보면 아래와 같이 app2 폴더 아래에 있음
 
