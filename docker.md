@@ -26,7 +26,7 @@ docker 는 클라이언트와 서버로 구성되어있습니다.
 커맨드를 입력하면 클라이언트가 도커 서버에 명령어를 전달하고 결과를
 반환받는 구성입니다.
 
-![docker구조](./img/docker.png)
+![docker구조](./img/docker.PNG)
 
 
 도커서버가 설치된 서버 
@@ -111,7 +111,7 @@ docker run -d --name "name" 이미지명
 docker exec -it 컨테이너명 /bin/bash
 컨테이너를 bash로 접근한다는 뜻
 
-![](./img/path.png)
+![](./img/path.PNG)
 
 컨테이너 내부에 접속해보면 아래와 같이 app2 폴더 아래에 있음
 
@@ -146,5 +146,8 @@ docker load -i ubuntu_14_04.tar
 [컨테이너 명령어](https://swiftymind.tistory.com/82)
 
 [컨테이너 삭제](https://brunch.co.kr/@hopeless/10)
+<<<<<<< HEAD
 
 [도커파일 구조](https://rampart81.github.io/post/dockerfile_instructions/)
+=======
+>>>>>>> adada20f219b2297304562e0b4788f58339ccc60
