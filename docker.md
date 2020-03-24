@@ -146,8 +146,5 @@ docker load -i ubuntu_14_04.tar
 [컨테이너 명령어](https://swiftymind.tistory.com/82)
 
 [컨테이너 삭제](https://brunch.co.kr/@hopeless/10)
-<<<<<<< HEAD
 
 [도커파일 구조](https://rampart81.github.io/post/dockerfile_instructions/)
-=======
->>>>>>> adada20f219b2297304562e0b4788f58339ccc60
